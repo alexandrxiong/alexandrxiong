@@ -1,7 +1,7 @@
-# Alexander Xiong
+### Alexander Xiong
 
-Founder & Engineer at [Quant AI](https://aiquant.io). Backend-focused full-stack engineer who takes products from idea to launch, across backend systems, AI agents, and web and mobile apps.
+Founder & Engineer at [Quant AI](https://aiquant.io). Backend-focused full-stack engineer who takes products from idea to launch — backend systems, AI agents, web and mobile apps.
 
-Focus areas: backend architecture, AI agents, quantitative investment research, and AI-assisted software development.
+`Backend architecture` `AI agents` `Quantitative research` `AI-assisted development`
 
-Email: [alexandr@aiquant.io](mailto:alexandr@aiquant.io)
+[alexandr@aiquant.io](mailto:alexandr@aiquant.io) · [aiquant.io](https://aiquant.io)
